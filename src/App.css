@@ -1,0 +1,166 @@
+body{
+  /* margin-left: 30px; */
+  margin-top: 0px;
+  scroll-behavior: smooth;
+  background-image: url("https://www.itl.cat/pngfile/big/4-41860_white-wallpaper-background-full-hd-background-white.jpg")  ;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.app {
+  border: solid green 5px;
+}
+.new-item {
+  border: solid red 4px;
+}
+.todo-list {
+  border: solid blue 4px;
+}
+.todo-item {
+  border: solid black 3px;
+}
+
+/* don't forget to do line through */
+
+.head{
+  margin-top: 50px; 
+  margin-left: 33px;
+}
+h2{
+  color: rgb(140, 13, 224);;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+h4{
+  color: rgb(3, 19, 233);
+margin-top: 15px;
+margin-bottom: 10px;
+}
+span{
+  border-radius: 5px 5px 0px 0px;
+  padding: 3px;
+  
+}
+.home {
+  border: solid purple 7px;
+  text-transform: uppercase;
+}
+.tasks {
+  border: solid orange 7px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* nav{
+margin-top: 0px;
+padding: 0px;
+position: fixed;
+background-color: blue;
+} */
+.main-nav{
+  /* list-style: none; */
+  background-color: rgba(182, 13, 224, 0.63);
+  margin-top: 30px;
+  position: fixed;
+  width: 100%;
+  border-radius: 0px 0px 0px 30px;
+  height: 35px;
+
+}
+/* .mynav {
+  background-color: rgba(23, 23, 119, 0.959);
+} */
+.main-nav1{
+  list-style: none;
+}
+.main-nav1 li{
+  display: inline;
+  color: black;
+}
+.main-nav li{
+  display: inline;
+  color: black;
+  box-shadow: 2px 2px 2px .5px;
+  border-radius: 3px;
+
+  /* margin: 10px; */
+}
+/* .main-nav li:active */
+/* ::selection */
+.main-nav li:hover{
+  background-color: rgb(182, 13, 224);
+  text-decoration: none;
+  box-shadow: 3px 3px 3px 3px;
+  border-radius: 8px;
+  font-size: 120%;
+}
+
+.list-inline li{
+  display: inline;
+
+}
+a{
+  color: black;
+  text-decoration: none;
+  margin: 10px;
+  justify-items: center;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+.head a:hover{
+  text-decoration: none;
+  color:  rgb(182, 13, 224);
+}
+a img:hover{
+  box-shadow: 2px 2px 2px 2px;
+  border-radius: 9999px;
+}
+a img{
+  box-shadow: 2px 2px 2px 2px;
+  border-radius: 9999px;
+}
+img {
+  height: 35px;
+  max-width: 35px;
+}
+.skills{
+  display: inline;
+  color: black;
+}
+.skills li {
+  color: black;
+  list-style:lower-greek;
+  margin-left: 33px;
+  margin-bottom: 15px;
+  font-size: medium;
+
+}
+.about{
+  box-shadow: 3px 3px 3px 3px;
+  border: solid  rgba(3, 18, 233, 0.301) 7px;
+  border-radius: 8px;
+  border-style: double;
+  margin-right: 35px;
+
+}
+li i{
+  border: solid  rgba(3, 18, 233, 0.301) 3px;
+  height: 30px;
+  width: 30px;
+  margin-right: 50px;
+
+  /* padding-top: 40px; */
+}
+.list-icons{
+  margin-top: 25px;
+  justify-content: center;
+  align-content: center;
+}
+/* .nav{
+
+} */
