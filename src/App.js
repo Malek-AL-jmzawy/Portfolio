@@ -74,9 +74,9 @@ export default class App extends Component {
               <li> <a href="https://github.com/Malek-AL-jmzawy/"><img src="https://icons-for-free.com/iconfiles/png/512/part+1+github-1320568339880199515.png" ></img></a></li>
               <li> <a href="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=ed6de6839a&attid=0.1&permmsgid=msg-a:r2171258112158663993&th=176c870eb0b34f09&view=att&disp=inline&realattid=176c8704d25c0f7b60e1&saddbat=ANGjdJ9iVbEuPvntspUL4fxnXUINjSUMY4SEspD9TSUxAf4S-y_-Rij7EcKmZFB3UvWhOvIy830gvNHmIRni-SuamYHim5CkhcfO7NPl0K0Ikm9qxXUrHU9v_cl6uqSnQSjL655Taqi_oBR3RaN7jXOw_Amz1aWyMQcP5GCycec9KW6S8FeoynBB3qQaqTplv3xphekEUjYBsOQrw_4h2iHj8_mQXmVZlBai_Q4w92kVyP_tEl4AUcBtshT6Nuuv2oKcqsiGcZLI-9rmc_HAS0BN9uTOQQeYNIh-jkAQSqe0sTaDtZsSeFy4ZJ51kRLLOkzyRhwzqYZxIoVqNKiYR0BTEAMmhB7CjT4tHyJqIT6VLN0lu_K16vJ0g1-76OSaov17xsvmswLdYJovWtAj4ubgENbNMdC7xD2JNRJEgGQxpb1m7AkrKyrqtlYxCSSBQ2RXv4rbo4RISVSKVITPPLhYQcAe-fwa-kX540GLU89kzNi2C6ED4A5xwVrvzO4xyqz73ooEQ3hBQjAp9q8PJDce8Hh59gPktbLyJJLpo1CjMOjFbpcn61_gGZ8EBA-cZUvDO3IlrUx1sg9G6eHnG0aGCZTolEstyBVsgpFCcFQ23COWkI-WxawJMhWHpo9YRp89u0U7jT_4EmmVoqj1wkjtqcQSUPFNVafrY_veIatlx3Dkz3N2OOMFKVrnFnc">
                 CV </a></li> </ul>
-          </div>
+          </div> 
           <div className="head">
-            <h2 id="SKILLS" >SKILLS</h2>
+            <h2 id="SKILLS" >SKILLS</h2>  
             <h4>Programming Languages & Tools:</h4>
             <ul class="list-inline list-icons">
               <li class="list-inline-item">
