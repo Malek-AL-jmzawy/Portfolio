@@ -53,7 +53,7 @@ export default class App extends Component {
                 <a href="#EDUCATION">EDUCATION </a>
               </li>
               <li >
-                <a href="#INTERESTS">INTERESTS & REFERENCEC</a>
+                <a href="#INTERESTS">INTERESTS & REFERENCES</a>
               </li>
             </ul>
           </div>
@@ -182,7 +182,7 @@ export default class App extends Component {
             <p id="INTERESTS">Graduated at 2018</p>
           </div >
           <div  className="head" >
-            <h2>INTERESTS & REFERENCEC</h2>
+            <h2>INTERESTS & REFERENCES</h2>
             <h4>INTERESTS</h4>
             <p>&#10147; Reading <i class="fas fa-book" style={{ color: "black" }}></i></p>
             <p>&#10147; Music &#9833; &#9738;</p>
