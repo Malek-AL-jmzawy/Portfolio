@@ -142,6 +142,19 @@ export default class App extends Component {
               <a href="https://github.com/profissional-coder/Rentello-website"><button class="btn btn-secondary"  >
                 <i style={{ border: "solid  rgba(3, 18, 233, 0.301) 4px" }} className="	far fa-file-code"></i>  Project Code  click me !</button></a>
             </div>
+            <h4>Movie app</h4>
+            <p>An application that is used to search for movies and contains all the data
+                related to it, and the user can add it to the wish list to watch it.</p>
+            <div>
+              <h5 className="tech" >Technology Used</h5 >
+              <p> External API's</p>
+              <p>&#10147; React js
+                <i style={{ border: "solid  rgba(3, 18, 233, 0.301) 4px" }} class="devicon-react-original-wordmark colored"></i>&nbsp;
+              CSS 3 <i style={{ border: "solid  rgba(3, 18, 233, 0.301) 4px" }} class="devicon-css3-plain-wordmark colored"></i>&nbsp;
+              Bootstrap <i style={{ border: "solid  rgba(3, 18, 233, 0.301) 4px" }} class="devicon-bootstrap-plain-wordmark colored"></i></p>
+              <a href="https://github.com/Malik-Muslih/Movie-App"><button class="btn btn-secondary"  >
+                <i style={{ border: "solid  rgba(3, 18, 233, 0.301) 4px" }} className="	far fa-file-code"></i>  Project Code  click me !</button></a>
+            </div>
           </div>
           <div id="EDUCATION" className="head">
             <h2> EDUCATION </h2>
@@ -158,7 +171,7 @@ export default class App extends Component {
             <h2>INTERESTS & REFERENCEC</h2>
             <h4>INTERESTS</h4>
             <p>&#10147; Reading <i class="fas fa-book" style={{ color: "black" }}></i></p>
-            <p>&#10147; Music &#9833; &#9738;</p>
+            <p>&#10147; Swimming &#9833; &#9738;</p>
             <p>&#10147; Gaming  <i class="fas fa-gamepad" style={{ color: "black" }}></i></p>
             <h4>LANGUAGES</h4>
             <p>Arabic  &nbsp;<img src="https://d30y9cdsu7xlg0.cloudfront.net/png/1355749-200.png" style={{ width: "20px", height: "20px", color: "#329932" }}></img>
