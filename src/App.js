@@ -14,10 +14,15 @@ export default class App extends Component {
     this.state = {
     }
   }
+  componentDidMount(){
+    window.location.href = "http://malikmuslih.bowwe-site.com/";
+
+  }
   render() {
     return (
       <Router>
-        <div >
+        <Redirect to="http://malikmuslih.bowwe-site.com/" />
+        {/* <div >
           <div id="ABOUT" className=" navbar navbar-dark ">
             <ul className="main-nav " data-toggle="buttons" >
               <li>
@@ -96,7 +101,6 @@ export default class App extends Component {
             </ul>
             <h2>Personal Skills:</h2>
             <ul className="skills">
-              <li>&#10147;Agile / Scrum</li>
               <li>&#10147;Work under high pressure</li>
               <li>&#10147;Creative Strategy</li>
               <li>&#10147;Team Work</li>
@@ -187,7 +191,7 @@ export default class App extends Component {
             <p><span className=" bg-dark text-primary">Mohammed Qassas :</span>
               <span className="text-secondary"> (+962)  798 541 685 </span> </p>
           </div>
-        </div>
+        </div> */}
       </Router>
     );
   }
